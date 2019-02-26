@@ -2,7 +2,7 @@
 praktikum
 ![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/praktikum.PNG)
 login
-![alttext(https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/login.PNG)
+![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/login.PNG)
 branda
 ![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/beranda.php.PNG)
 3
