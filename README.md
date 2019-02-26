@@ -3,7 +3,7 @@ praktikum
 ![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/praktikum.PNG)
 login
 ![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/login.PNG)
-branda
+branda (ini sudah saya ketikkan username "admin" dan password "admin")
 ![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/beranda.php.PNG)
 3
 ![alttext](https://github.com/Anandarafi/Modul5PHP-AnandaRafiAmanullah-XRPL4-07/blob/master/3.PNG)
